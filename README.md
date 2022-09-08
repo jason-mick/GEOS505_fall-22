@@ -4,12 +4,8 @@
 
 email: [jasonmick@u.boisestate.edu](mailto:jasonmick@u.boisestate.edu)
 
-1. Goal 1
-2. Goal 2
-3. Goal 3
 
 ## SMART Goals
-
 
  SMART | Goals
 -----------|-----------
@@ -18,3 +14,7 @@ email: [jasonmick@u.boisestate.edu](mailto:jasonmick@u.boisestate.edu)
  A | Achievable 
  R | Relevant 
  T | Time-Bound 
+
+1. 
+2. 
+3. 
