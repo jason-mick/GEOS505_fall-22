@@ -2,5 +2,5 @@
 
 ## Jason Mick
 
-email: [jasonmick@u.boisestate.edu](jasonmick@u.boisestate.edu)
+email: [jasonmick@u.boisestate.edu](mailto:jasonmick@u.boisestate.edu)
 
