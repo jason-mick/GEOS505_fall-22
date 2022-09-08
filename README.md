@@ -11,7 +11,7 @@ email: [jasonmick@u.boisestate.edu](mailto:jasonmick@u.boisestate.edu)
 ## SMART Goals
 
 
------------|-----------
+ SMART | Goals
 -----------|-----------
  S | Specific 
  M | Measurable 
